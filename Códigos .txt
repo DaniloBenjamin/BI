@@ -1,0 +1,36 @@
+﻿Códigos
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+sns.jointplot(data=dataset, x='n_filhos', y='salario')
+plt.show()
+
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+sns.jointplot(data=dataset, x='n_filhos', y='salario')
+plt.show()
+
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+sns.jointplot(data=dataset, x='n_filhos', y='salario')
+plt.show()
+
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+sns.jointplot(data=dataset, x='n_filhos', y='salario')
+plt.show()
+
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+sns.pairplot(dataset[['n_filhos', 'salario', 'idade_anos']])
+plt.show()
+
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+sns.jointplot(data=dataset, x='n_filhos', y='salario')
+plt.show()
